@@ -1,0 +1,2 @@
+print("lakky")
+print("huli")
